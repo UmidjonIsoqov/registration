@@ -1,0 +1,41 @@
+*{
+    margin: 
+    padding:
+}
+
+
+form{
+    width: 300px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: url(./IMG/string-of-galaxies-4k-te-1366x768.jpg);
+    border-radius: 10px;
+    color: #fff;
+
+
+}
+    
+
+body{
+    background: url(./IMG/gora-pik-severnoe-siyanie-noch.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}  
+input{
+    padding: 10px 30px;
+    border-radius: 10px 0 10px 0;
+    outline: none;
+border: 2px solid white ;
+transition: 1s;
+}
+
+
+input:focus{
+    border-radius: 0px 15px 0px 15px;
+    transition: 1s;
+}
